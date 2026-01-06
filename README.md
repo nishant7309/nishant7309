@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Nishant Bhargava</h1>
-  <h3>AI Researcher</
+  <h3>AI Researcher</h3>
   <p><i>Undergraduate @ Purdue University | CYNICS Lab | Algoverse</i></p>
 
   <br />
